@@ -7,7 +7,7 @@ You can't spell FlavorText without Vortex.
 > - [x] Patreon Specific flag included!
 
 ## Showcase
-<<< tbd >>>
+https://user-images.githubusercontent.com/35414314/159161069-25e9b6cb-ae35-462d-ac1c-89de69e0e293.mp4
 
 ## Usage
 > - Install libraries in `requirements.txt` file.
@@ -16,4 +16,10 @@ You can't spell FlavorText without Vortex.
 
 ## Credits
 - This webservice uses Python library [FlavorTexts](https://github.com/A-c0rN/FlavorTexts).
-- Visit [Zack Freedman's channel](https://www.youtube.com/c/ZackFreedman)!
+- Visit [Zack Freedman's channel](https://www.youtube.com/c/ZackFreedman)
+
+
+
+
+
+
