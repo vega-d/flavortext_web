@@ -1,0 +1,42 @@
+
+.black_bg{
+    background-color: black;
+}
+
+.main{
+    width: 100%;
+    height: 100vh;
+    background: linear-gradient(rgba(0, 0, 0, .3), rgba(0, 0, 0, .8)), url(../img/oldbuilding.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.main-inner{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    color: white;
+    height: 100%;
+    width: 100%
+    text-align: center;
+    position: relative;
+}
+
+.main-info > span{
+    display: block;
+    height: 100%;
+    width: 100%
+}
+
+.main-info__title{
+    font-size: 4em;
+    margin: 10px;
+    font-weight: bolder;
+}
+
+.main-info__subtitle{
+    text-transform: capitalize;
+    font-size: 200%;
+
+    margin: 10px;
+}
